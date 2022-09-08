@@ -8,7 +8,7 @@ import {
 
 import './index.css';
 
-import LandingPage from './pages/landing';
+import LandingPage from './pages/LandingPage';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
